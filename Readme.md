@@ -24,11 +24,3 @@ terminal (open terminal)<br>
 kill <b>app_name</b> (kills an application)<br>
 shutdown (be careful!)<br>
 restart (be careful!)<br>
-DEFAULT : treat decoded text as an application name<br>
-
-
-* Web Browser Control (Search)
-* Rhythmbox Controls (Play, Pause, Next, Previous, Stop)
-* ~~Text/Code Editors. (CLion, Webstorm, PyCharm, Android Studio, Gedit, Sublime)~~
-* YLC Controls (Play a movie, download subtitles using _subtitle downloader (personal project)_ ).
-* ~~Open Terminal.~~
