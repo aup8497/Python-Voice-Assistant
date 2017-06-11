@@ -13,9 +13,10 @@ Python based voice assistant using Google speech recognition and google text to 
     `sudo apt-get install libjack-jackd2-dev portaudio19-dev`
 
 - #### gTTS: (Google Text to Speech service)
-      `pip install gTTS`
+     `pip install gTTS`
 
 <h3>Usage :</h3>
+play **song_name** song (uses download mp3 to download the song(if not present already) and just plays the song using vlc)
 search for <b>query</b> (if website_name is not specified takes you to google.co.in)<br>
 sublime (open sublime editor)<br>
 webstorm (open webstorm editor)<br>
