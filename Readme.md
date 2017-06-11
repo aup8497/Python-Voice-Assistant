@@ -16,7 +16,7 @@ Python based voice assistant using Google speech recognition and google text to 
      `pip install gTTS`
 
 <h3>Usage :</h3>
-play **song_name** song (uses download mp3 to download the song(if not present already) and just plays the song using vlc)
+play <b>song_name</b> song (uses download mp3 to download the song(if not present already) and just plays the song using vlc)
 search for <b>query</b> (if website_name is not specified takes you to google.co.in)<br>
 sublime (open sublime editor)<br>
 webstorm (open webstorm editor)<br>
